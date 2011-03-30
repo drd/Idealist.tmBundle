@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import nose.tools; nose.tools.set_trace()</string>
+	<key>name</key>
+	<string>tpdb</string>
+	<key>tabTrigger</key>
+	<string>tpdb</string>
+	<key>uuid</key>
+	<string>5B6E36EC-E542-444E-A56E-A4006247C07B</string>
+</dict>
+</plist>
